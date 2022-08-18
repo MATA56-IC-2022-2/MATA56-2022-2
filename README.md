@@ -84,9 +84,10 @@ Estudos do paradigma funcional: conceito de programação funcional; resolução
 
 Data | Semana | Tópico
 -- | -- | --
-16 e 18/08/2022 | 1 | Apresentação da disciplina
+16 e 18/08/2022 | 1 | Apresentação da disciplina, motivação, conceitos e histórico de LPs
+23 e 25/08/2022 | 2 | Conceitos gerais, critérios de avaliação, paradigmas de programação
 <!--
-14 e 16/03/2022 | 2 | --
+16 e 18/08/2022 | 1 | Apresentação da disciplina
 21 e 23/03/2022 | 3 | Apresentação da disciplina
 28 e 30/03/2022 | 4 | Motivação, conceitos gerais, critérios de avaliação, histórico(1)
 04 e 06/04/2022 | 5 | Histórico(2), paradigmas de programação, conceitos relevantes
