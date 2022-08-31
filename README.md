@@ -84,29 +84,24 @@ Estudos do paradigma funcional: conceito de programação funcional; resolução
 
 Data | Semana | Tópico
 -- | -- | --
-16 e 18/08/2022 | 1 | Apresentação da disciplina, motivação, conceitos e histórico de LPs
-23 e 25/08/2022 | 2 | Conceitos gerais, critérios de avaliação, paradigmas de programação
-<!--
-16 e 18/08/2022 | 1 | Apresentação da disciplina
-21 e 23/03/2022 | 3 | Apresentação da disciplina
-28 e 30/03/2022 | 4 | Motivação, conceitos gerais, critérios de avaliação, histórico(1)
-04 e 06/04/2022 | 5 | Histórico(2), paradigmas de programação, conceitos relevantes
-11 e 13/04/2022 | 6 | Conceitos relevantes, atividades no GitHub, introdução a PF
-18 e 20/04/2022 | 7 | 
-25 e 27/04/2022 | 8 | 
-02 e 04/05/2022 | 9 | 
-09 e 11/05/2022 | 10 | 
-16 e 18/05/2022 | 11 | 
-23 e 25/05/2022 | 11 | 
-30/05 e 01/06/2022 | 12 |
-06 e 08/06/2022 | 13 | 
-13 e 15/06/2022 | 14 |
-20 e 22/06/2022 | 15 | 
-27 e 29/06/2022 | 15 | 
-04 e 06/07/2029 | 16 | 
-24/11/2021 | 16 |
-29/11 e 01/12/2021 | 17 |
-06/12/2021 | 18 | 
+16 e 18/8/2022 | 1 | Apresentação da disciplina; Motivação e conceitos gerais
+23 e 25/8/2022 | 2 | Critérios de avaliação; Histórico de LPs
+30/8 e 01/9/2022 | 3 | Histórico OO, paradigmas de programação; Conceitos relevantes 
+06 e 08/9/2022 | 4 | Introdução a Programação Funcional; Introdução a Elixir
+13 e 15/9/2022 | 5 | Programação Funcional
+20 e 22/9/2022 | 6 | Programação Funcional
+27 e 29/9/2022 | 7 | Programação Funcional
+04 e 06/10/2022 | 8 | Aula Remota (CBSOFT SBES 2022)  - Programação Concorrente
+11 e 13/10/2022 | 9 | Introdução a Programação em Lógica; Introdução a PROLOG
+18 e 20/10/2022 | 10 | Aula Remota (ERES 2022) - Programação em Lógica
+25 e 27/10/2022 | 11 | Programação em Lógica
+01 e 03/11/2022 | 12 | Semântica de LPs; Nomes e Tipos
+08 e 10/11/2022 | 13 | Estruturas de dados
+15 e 17/11/2022 | 14 | FERIADO; Expressões
+22 e 24/11/2022 | 15 | Estruturas de controle
+29/11 e 01/12/2022 | 16 | Unidades de programa
+06 e 08/12/2022 | 17 | Exercícios e Discussão
+13/12/2022 | 18 | Encerramento |
 -->
 
 ## Material de Apoio
