@@ -83,8 +83,11 @@ Estudos do paradigma funcional: conceito de programação funcional; resolução
 ## Plano de Aulas
 
 Data | Semana | Tópico
+
 -- | -- | --
+
 16 e 18/8/2022 | 1 | Apresentação da disciplina; Motivação e conceitos gerais
+
 23 e 25/8/2022 | 2 | Critérios de avaliação; Histórico de LPs
 30/8 e 01/9/2022 | 3 | Histórico OO, paradigmas de programação; Conceitos relevantes 
 06 e 08/9/2022 | 4 | Introdução a Programação Funcional; Introdução a Elixir
