@@ -44,7 +44,7 @@ Fontes:
 
 ## Capacidades da Linguagem
   + Metaprogramação
-  + Segurança 
+  + Segurança (ver https://techbeacon.com/security/how-programming-languages-can-hurt-your-applications-security)
   + Performance
   + Escalabilidade
   + Confiabilidade
