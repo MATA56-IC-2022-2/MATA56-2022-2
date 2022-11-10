@@ -88,8 +88,8 @@ Data | Semana | Tópico
 23 e 25/8/2022 | 2 | Conceitos gerais; Critérios de avaliação
 30/8 e 01/9/2022 | 3 | Histórico de LPs; Histórico OO
 06 e 08/9/2022 | 4 | Paradigmas de programação 
-13 e 15/9/2022 | 5 | Semântica de LPs; Variáveis; Amarração
-20 e 22/9/2022 | 6 | Semântica de LPs; Tipos, Escopo e Tempo de Vida
+13 e 15/9/2022 | 5 | Semântica de LPs; Variáveis; Amarração, Tipos
+20 e 22/9/2022 | 6 | Escopo, Tempo de Vida;  Ambientes (pilha e heaps)
 27 e 29/9/2022 | 7 | Resolução de Exercícios
 04 e 06/10/2022 | 8 | Aula Remota (CBSOFT SBES 2022)
 11 e 13/10/2022 | 9 | 
