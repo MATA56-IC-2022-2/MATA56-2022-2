@@ -84,24 +84,24 @@ Estudos do paradigma funcional: conceito de programação funcional; resolução
 
 Data | Semana | Tópico
 -- | -- | --
-16 e 18/8/2022 | 1 | Apresentação da disciplina; Motivação e conceitos gerais
-23 e 25/8/2022 | 2 | Critérios de avaliação; Histórico de LPs
-30/8 e 01/9/2022 | 3 | Histórico OO, paradigmas de programação; Conceitos relevantes 
-06 e 08/9/2022 | 4 | Introdução a Programação Funcional; Introdução a Elixir
-13 e 15/9/2022 | 5 | Programação Funcional
-20 e 22/9/2022 | 6 | Programação Funcional
-27 e 29/9/2022 | 7 | Programação Funcional
-04 e 06/10/2022 | 8 | Aula Remota (CBSOFT SBES 2022)  - Programação Concorrente
-11 e 13/10/2022 | 9 | Introdução a Programação em Lógica; Introdução a PROLOG
-18 e 20/10/2022 | 10 | Aula Remota (ERES 2022) - Programação em Lógica
-25 e 27/10/2022 | 11 | Programação em Lógica
-01 e 03/11/2022 | 12 | Semântica de LPs; Nomes e Tipos
-08 e 10/11/2022 | 13 | Estruturas de dados
-15 e 17/11/2022 | 14 | FERIADO; Expressões
-22 e 24/11/2022 | 15 | Estruturas de controle
-29/11 e 01/12/2022 | 16 | Unidades de programa
-06 e 08/12/2022 | 17 | Exercícios e Discussão
-13/12/2022 | 18 | Encerramento |
+16 e 18/8/2022 | 1 | Apresentação da disciplina; Motivação
+23 e 25/8/2022 | 2 | Conceitos gerais; Critérios de avaliação
+30/8 e 01/9/2022 | 3 | Histórico de LPs; Histórico OO
+06 e 08/9/2022 | 4 | Paradigmas de programação 
+13 e 15/9/2022 | 5 | Semântica de LPs; Variáveis; Amarração
+20 e 22/9/2022 | 6 | Semântica de LPs; Tipos, Escopo e Tempo de Vida
+27 e 29/9/2022 | 7 | Resolução de Exercícios
+04 e 06/10/2022 | 8 | Aula Remota (CBSOFT SBES 2022)
+11 e 13/10/2022 | 9 | 
+18 e 20/10/2022 | 10 | Introdução ao Cálculo Lambda
+25 e 27/10/2022 | 11 | Introdução a Programação Funcional; Introdução a Elixir
+01 e 03/11/2022 | 12 | Programação Funcional
+08 e 10/11/2022 | 13 | Programação Funcional com LISP
+15 e 17/11/2022 | 14 | FERIADO; Introdução a Elixir
+22 e 24/11/2022 | 15 | Elixir; 
+29/11 e 01/12/2022 | 16 | Elixir; Unidades de programa; Programação Concorrente
+06 e 08/12/2022 | 17 | Introdução a Programação em Lógica; Introdução a PROLOG
+13/12/2022 | 18 | Discussão e encerramento |
 
 ## Material de Apoio
 
